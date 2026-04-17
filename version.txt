@@ -1,0 +1,5 @@
+0.0.1
+- Added a new "Hard Mode" difficulty.
+- Fixed a bug where the player could walk through trees.
+- Improved texture loading speeds by 20%.
+- Updated the main menu music.
